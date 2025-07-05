@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "name": {
+      "en": "iPhone 15",
+      "ar": "15 آيفون"
+    },
+    "price": 999,
+    "original_price": 1199,
+    "type": "simple",
+    "image": "https://appleyug.ru/wp-content/uploads/2019/09/zelenyj_result-300x300.jpg",
+    "discount": 200,
+    "is_featured": true,
+    "ai_suggested": true
+  },
+  {
+    "id": 2,
+    "name": {
+      "en": "T-Shirt",
+      "ar": "شيرت تي"
+    },
+    "type": "variable",
+    "variations": [
+      { "price": 50 },
+      { "price": 75 },
+      { "price": 60 }
+    ],
+    "image": "https://i.etsystatic.com/50696867/r/il/a6f83e/6171917235/il_300x300.6171917235_mt8z.jpg",
+    "is_featured": false,
+    "ai_suggested": false
+  },
+  {
+    "id": 3,
+    "name": {
+      "en": "Wireless Headphones",
+      "ar": "سماعات لاسلكية"
+    },
+    "price": 150,
+    "original_price": 180,
+    "type": "simple",
+    "image": "https://m.media-amazon.com/images/I/61bvby38t7L.__AC_SX300_SY300_QL70_ML2_.jpg",
+    "discount": 30,
+    "is_featured": true,
+    "ai_suggested": false
+  },
+  {
+    "id": 4,
+    "name": {
+      "en": "Sneakers",
+      "ar": "حذاء رياضي"
+    },
+    "type": "variable",
+    "variations": [
+      { "price": 80 },
+      { "price": 100 },
+      { "price": 90 }
+    ],
+    "image": "https://litb-cgis.rightinthebox.com/images/384x384/202408/bps/product/inc/nyrmiy1722598725929.jpg",
+    "is_featured": false,
+    "ai_suggested": true
+  }
+]
